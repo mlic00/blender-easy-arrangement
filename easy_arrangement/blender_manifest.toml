@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+
+id            = "easy_arrangement"
+version       = "0.1.6"
+name          = "Easy Arrangement"
+tagline       = "Arrange objects linearly, stair-like or in circular patterns"
+maintainer    = "mlico"
+type          = "add-on"
+
+blender_version_min = "4.2.0"
+
+tags    = ["Object"]
+license = ["SPDX:GPL-3.0-or-later"]
+
+website = "https://github.com/mlic00/blender-easy-arrangement"
+support = "https://github.com/mlic00/blender-easy-arrangement/issues"
