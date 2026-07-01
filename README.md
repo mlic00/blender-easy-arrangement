@@ -42,7 +42,8 @@ An additional independent X / Y / Z rotation offset can be layered on top of any
 
 ## 🖼️ Interface
 
-![Panel overview — Linear, Stair, and Circular modes](images/ui_overview.png)
+![Panel overview — Linear, Stair, and Circular modes](images/ui_overview_02.png)
+![Panel overview — Linear, Stair, and Circular modes](images/ui_overview_03.png)
 
 The panel adapts to the selected arrangement type, showing only the relevant settings for Linear, Stair, or Circular layouts — plus a shared Rotation Offset section at the bottom.
 
