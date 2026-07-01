@@ -1,7 +1,7 @@
 schema_version = "1.0.0"
 
 id            = "easy_arrangement"
-version       = "0.1.6"
+version       = "0.2.2"
 name          = "Easy Arrangement"
 tagline       = "Arrange objects linearly, stair-like or in circular patterns"
 maintainer    = "mlico"
